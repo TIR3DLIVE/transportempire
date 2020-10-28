@@ -1,1 +1,0 @@
-This repository contains the modpack for the Transport Empire server.
