@@ -1,0 +1,34 @@
+Latest as of 10/28/2020
+-------------------------------------------
+Mods:						   Versions:
+-------------------------------------------
+Biomes OPlenty               - 7.0.1.2444
+Buildcraft All               - 7.99.24.7
+CC-Tweaked                   - 1.89.2
+Crayfish Furniture           - 6.3.0
+CodeChickenLib               - 3.2.3.358
+CreativeCore                 - 1.10.28
+Flagged                      - 0.1.1
+Fureniku's Roads             - 1.1.8
+Good Ol' Currency            - 1.3.11
+Gregicality                  - 0.20.9
+GregTech                     - 1.10.3.569
+Immersive Vehicles           - 18.1.4
+Immersive Engineering        - 0.12-98
+Immersive Petroleum          - 1.1.9
+Immersive Railroading        - 1.7.3
+Just Enough Items            - 4.16.1.301
+Journeymap                   - 5.7.1
+Little Tiles                 - Pre199-68
+Malisis Core                 - 6.5.1
+Malisis Doors                - 7.3.0
+MCImmtersiveTech             - 1.8.82
+Optifine                     - HD-U-F5
+Pam's Harvestcraft           - 1.12.2zg
+Railstuff                    - 0.2.3
+ReAuth                       - 3.6.0
+TrackAPI                     - 1.2
+Traffic Control              - 0.3.1
+UNU Civilian                 - 18.0.0-3.4.2
+UNU Parts Pack               - 18.0.0.3.4.1
+-------------------------------------------
